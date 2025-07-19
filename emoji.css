@@ -1,0 +1,42 @@
+#heading{
+    margin-left: 630px;
+    margin-top: 170px;
+}
+#emojiContainer{
+    margin-left: 725px;
+    font-size: 100px;
+   
+}
+#TheOther{
+    margin-left: 580px;
+    margin-top: 40px;
+}
+#guess-emoji{
+    padding: 10px 80px;
+    text-align: center;
+    border-radius: 6px;
+   
+    background-color: white;
+}
+
+#NextButton{
+    padding: 8px 10px;
+    margin-left: 15px;
+    border-radius: 4px;
+    background-color: rgb(0, 102, 174);
+    border: none;
+    color: white;
+}
+#result{
+    margin-left: 750px;
+    margin-top: 20px;
+}
+#score{
+    margin-left: 750px; 
+    margin-top: 10px;
+}
+#timer{
+    text-align: center;
+    font-size: xx-large;
+    margin-top: 10px;
+}
